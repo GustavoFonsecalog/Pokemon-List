@@ -72,6 +72,7 @@ function PokemonList() {
                 overflowY={"scroll"}
                 overflowX={"hidden"}
                 m={10}
+                borderRadius={"10px"}
               >
                 <List
                   spacing={3}
