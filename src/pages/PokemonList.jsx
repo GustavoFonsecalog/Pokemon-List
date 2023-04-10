@@ -77,8 +77,9 @@ function PokemonList() {
                 <List
                   spacing={3}
                   textAlign={"left"}
-                  backgroundColor={"#fff"}
-                  opacity="0.8"
+                  fontWeight={"bold"}
+                  color={"#fff"}
+                  textTransform={"capitalize"}
                   paddingTop={4}
                   paddingBottom={4}
                   paddingLeft={4}
