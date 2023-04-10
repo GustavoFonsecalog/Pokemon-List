@@ -6,8 +6,8 @@ import reportWebVitals from "./reportWebVitals";
 
 import App from "./App";
 
-import Home from "./components/Home";
-import List from "./components/List";
+import Home from "@pages/Home";
+import PokemonList from "@pages/PokemonList";
 // import Search from "./pages/Search";
 
 import "./index.css";
@@ -18,7 +18,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       <Routes>
         <Route element={<App />}>
           <Route path="/" element={<Home />} />
-          <Route path="/list" element={<List />} />
+          <Route path="/pokemon-list" element={<PokemonList />} />
           {/* <Route path="search" element={<Search />} /> */}
         </Route>
       </Routes>
