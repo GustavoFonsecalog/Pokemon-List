@@ -4,7 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
 
 First acess: 
 
@@ -12,6 +11,9 @@ Clone the project
 In the project directory, run:
 ### `yarn`
 ### `yarn start`
+
+In the project directory, you can run:
+
 
 ### `yarn start`
 
